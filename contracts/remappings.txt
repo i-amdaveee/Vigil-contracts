@@ -1,0 +1,4 @@
+@openzeppelin/contracts-upgradeable/=/home/daveeonchain/Desktop/vigil/contracts/lib/openzeppelin-contracts-upgradeable/contracts/
+@openzeppelin/contracts/=/home/daveeonchain/Desktop/vigil/contracts/lib/openzeppelin-contracts/contracts/
+@openzeppelin/token/=/home/daveeonchain/Desktop/vigil/contracts/lib/openzeppelin-contracts/contracts/token/
+forge-std/=/home/daveeonchain/Desktop/vigil/contracts/lib/forge-std/src/
