@@ -5,6 +5,8 @@ pragma solidity ^0.8.35;
  * @notice ERC1967 proxy wrapper that delegates to an implementationAddress contract
  * @dev Uses ERC1967 proxy pattern with minimal proxy logic
  */
+/// SPDX-License-Identifier: MIT
+/// Copyright (c) Vigil Protocol
 contract VigilProxy {
     address public implementationAddress;
     address public proxyAdmin;
